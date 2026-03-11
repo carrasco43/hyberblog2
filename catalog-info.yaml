@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: mi-primer-servicio
+  name: prueba
   description: "Este es mi servicio de prueba integrado con GitHub y Jenkins"
   annotations:
     # Aquí es donde ocurre la magia de la integración:
